@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" fill="none">
+  <rect width="360" height="240" rx="20" fill="#FFAFCC"/>
+  <path d="M70 120C95 75 130 75 155 120C180 165 215 165 240 120C265 75 290 90 300 120" stroke="#3A265E" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="155" cy="120" r="14" fill="#FDFFB6" stroke="#3A265E" stroke-width="3.5"/>
+  <circle cx="240" cy="120" r="14" fill="#B9FBC0" stroke="#3A265E" stroke-width="3.5"/>
+  <text x="180" y="212" text-anchor="middle" fill="#2B1D47" font-family="Barlow Condensed, sans-serif" font-size="22" font-weight="700">REGULACIÓN EMOCIONAL</text>
+</svg>

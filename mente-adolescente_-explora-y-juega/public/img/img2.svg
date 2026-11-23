@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" fill="none">
+  <rect width="360" height="240" rx="20" fill="#B9FBC0"/>
+  <rect x="95" y="42" width="170" height="126" rx="22" fill="#A2D2FF" stroke="#3A265E" stroke-width="4"/>
+  <path d="M180 144C180 144 134 114 134 86C134 72 145 62 158 62C167 62 175 67 180 74C185 67 193 62 202 62C215 62 226 72 226 86C226 114 180 144 180 144Z" fill="#FFAFCC" stroke="#3A265E" stroke-width="3.5"/>
+  <text x="180" y="212" text-anchor="middle" fill="#2B1D47" font-family="Barlow Condensed, sans-serif" font-size="22" font-weight="700">AUTOESTIMA SANA</text>
+</svg>

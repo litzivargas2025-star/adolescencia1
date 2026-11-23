@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" fill="none">
+  <rect width="480" height="320" rx="24" fill="#D7C4E8"/>
+  <path d="M0 240Q120 200 240 235T480 220V320H0Z" fill="#CDB4DB"/>
+  <circle cx="240" cy="145" r="88" fill="#B8D8F8" fill-opacity="0.65" stroke="#3A265E" stroke-width="3" stroke-dasharray="8 6"/>
+  <!-- Speech bubbles representing social pressure -->
+  <rect x="46" y="48" width="110" height="46" rx="14" fill="#FFAFCC" stroke="#3A265E" stroke-width="3"/>
+  <path d="M84 94L76 110L100 94" fill="#FFAFCC" stroke="#3A265E" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="66" y1="66" x2="136" y2="66" stroke="#3A265E" stroke-width="4" stroke-linecap="round"/>
+  <line x1="66" y1="78" x2="114" y2="78" stroke="#3A265E" stroke-width="4" stroke-linecap="round"/>
+  <rect x="324" y="56" width="114" height="46" rx="14" fill="#FFD6A5" stroke="#3A265E" stroke-width="3"/>
+  <path d="M372 102L388 118L392 102" fill="#FFD6A5" stroke="#3A265E" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="344" y1="74" x2="418" y2="74" stroke="#3A265E" stroke-width="4" stroke-linecap="round"/>
+  <line x1="358" y1="86" x2="404" y2="86" stroke="#3A265E" stroke-width="4" stroke-linecap="round"/>
+  <!-- Teen silhouette -->
+  <circle cx="240" cy="126" r="34" fill="#FFD6A5" stroke="#3A265E" stroke-width="4"/>
+  <path d="M208 122C208 98 224 86 240 86C256 86 272 98 272 122C264 108 250 102 240 102C230 102 216 108 208 122Z" fill="#3A265E"/>
+  <circle cx="228" cy="128" r="3.5" fill="#2B1D47"/>
+  <circle cx="252" cy="128" r="3.5" fill="#2B1D47"/>
+  <path d="M232 142C236 139 244 139 248 142" stroke="#2B1D47" stroke-width="3" stroke-linecap="round"/>
+  <path d="M188 266C192 204 214 176 240 176C266 176 288 204 292 266H188Z" fill="#3A265E"/>
+  <!-- Protective calm aura -->
+  <circle cx="240" cy="180" r="118" stroke="#B9FBC0" stroke-width="4" stroke-opacity="0.85"/>
+  <rect x="138" y="274" width="204" height="28" rx="14" fill="#FDFFB6" stroke="#3A265E" stroke-width="2.5"/>
+  <text x="240" y="293" text-anchor="middle" fill="#2B1D47" font-family="Work Sans, sans-serif" font-size="13" font-weight="700">MIEDO AL JUICIO SOCIAL</text>
+</svg>

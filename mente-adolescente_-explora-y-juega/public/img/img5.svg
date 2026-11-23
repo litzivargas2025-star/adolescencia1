@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" fill="none">
+  <rect width="360" height="240" rx="20" fill="#A2D2FF"/>
+  <path d="M180 164V94" stroke="#3A265E" stroke-width="5" stroke-linecap="round"/>
+  <path d="M180 124C150 124 134 102 140 82C162 82 180 98 180 124Z" fill="#B9FBC0" stroke="#3A265E" stroke-width="3.5"/>
+  <path d="M180 108C210 108 226 86 220 66C198 66 180 82 180 108Z" fill="#FDFFB6" stroke="#3A265E" stroke-width="3.5"/>
+  <rect x="130" y="160" width="100" height="14" rx="7" fill="#FFD6A5" stroke="#3A265E" stroke-width="3"/>
+  <text x="180" y="212" text-anchor="middle" fill="#2B1D47" font-family="Barlow Condensed, sans-serif" font-size="22" font-weight="700">RESILIENCIA JUVENIL</text>
+</svg>

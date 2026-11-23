@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" fill="none">
+  <rect width="480" height="320" rx="24" fill="#A2D2FF"/>
+  <path d="M0 245Q140 215 260 245T480 230V320H0Z" fill="#B8D8F8"/>
+  <!-- Warm sun breaking through soft blue clouds -->
+  <circle cx="368" cy="84" r="44" fill="#FDFFB6" stroke="#2B1D47" stroke-width="3"/>
+  <path d="M68 106C68 92 80 82 94 84C100 70 116 64 130 70C142 64 160 72 162 88C174 90 182 102 180 114C178 124 168 130 156 130H84C74 130 68 120 68 106Z" fill="#CDB4DB" stroke="#2B1D47" stroke-width="3"/>
+  <!-- Two supportive friends seated together -->
+  <circle cx="176" cy="146" r="28" fill="#FFD6A5" stroke="#2B1D47" stroke-width="3.5"/>
+  <path d="M132 260C136 206 156 184 176 184C196 184 216 206 220 260H132Z" fill="#3A265E"/>
+  <circle cx="294" cy="150" r="28" fill="#FFD6A5" stroke="#2B1D47" stroke-width="3.5"/>
+  <path d="M250 260C254 208 274 186 294 186C314 186 334 208 338 260H250Z" fill="#FFAFCC" stroke="#2B1D47" stroke-width="3.5"/>
+  <!-- Supportive arm & heart -->
+  <path d="M204 202C224 196 242 198 258 208" stroke="#B9FBC0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M236 130C236 130 218 118 218 106C218 100 223 95 229 95C233 95 235 98 236 100C237 98 239 95 243 95C249 95 254 100 254 106C254 118 236 130 236 130Z" fill="#B9FBC0" stroke="#2B1D47" stroke-width="2.5"/>
+  <rect x="115" y="274" width="250" height="28" rx="14" fill="#B9FBC0" stroke="#2B1D47" stroke-width="2.5"/>
+  <text x="240" y="293" text-anchor="middle" fill="#2B1D47" font-family="Work Sans, sans-serif" font-size="13" font-weight="700">DESAHOGO Y ACOMPAÑAMIENTO</text>
+</svg>

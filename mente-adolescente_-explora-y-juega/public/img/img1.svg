@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" fill="none">
+  <rect width="360" height="240" rx="20" fill="#CDB4DB"/>
+  <circle cx="180" cy="112" r="70" fill="#FDFFB6" stroke="#3A265E" stroke-width="4"/>
+  <polygon points="180,58 228,142 132,142" fill="#FFAFCC" stroke="#3A265E" stroke-width="3.5" stroke-linejoin="round"/>
+  <circle cx="180" cy="112" r="20" fill="#A2D2FF" stroke="#3A265E" stroke-width="3.5"/>
+  <text x="180" y="212" text-anchor="middle" fill="#2B1D47" font-family="Barlow Condensed, sans-serif" font-size="22" font-weight="700">IDENTIDAD PROPIA</text>
+</svg>

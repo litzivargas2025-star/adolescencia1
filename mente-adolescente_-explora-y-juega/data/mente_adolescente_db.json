@@ -1,0 +1,53 @@
+{
+  "db_registro_adolescente": {
+    "usuarios_adolescentes": [
+      {
+        "id": 1,
+        "nombre_completo": "Sofía Valentina Morales",
+        "apodo": "Sofi",
+        "edad": 16,
+        "correo": "sofia@mente.edu",
+        "password_hash": "0dc393c05f4df79497a146ef634f32cf04f689a5bded19d3d2fa0490ca097b59",
+        "emocion_frecuente": "Miedo",
+        "situacion_actual": "Siento nervios intensos antes de exponer frente al salón y me preocupa qué piensen de mí.",
+        "fecha_registro": "2026-11-22T21:26:07.881Z"
+      }
+    ]
+  },
+  "db_seguimiento_emocional": {
+    "sesiones_login": [],
+    "resultados_emocionales": [
+      {
+        "id": 1,
+        "usuario_id": 1,
+        "actividad": "Sopa de Letras",
+        "puntos_empatia": 25,
+        "emocion_trabajada": "Miedo",
+        "detalle_resultado": "Completó las palabras clave de regulación emocional en 100%.",
+        "fecha_registro": "2026-11-22T21:26:07.881Z"
+      },
+      {
+        "id": 2,
+        "usuario_id": 1,
+        "actividad": "Mapa Corporal de las Emociones",
+        "puntos_empatia": 25,
+        "emocion_trabajada": "Tristeza",
+        "detalle_resultado": "Identificó opresión en el pecho y practicó respiración profunda.",
+        "fecha_registro": "2026-11-22T21:26:07.881Z"
+      }
+    ],
+    "plan_bienestar": [
+      {
+        "usuario_id": 1,
+        "emocion_a_trabajar": "Miedo",
+        "situacion_resolver": "Superar el temor al juicio social cuando expresas tus ideas en clase o con amigos.",
+        "estrategia_1": "Respiración 4-4-6 antes de hablar para calmar el sistema nervioso.",
+        "estrategia_2": "Divide el reto en pasos pequeños: primero habla con un amigo cercano.",
+        "estrategia_3": "Cambia el 'qué dirán' por 'qué quiero aportar hoy'.",
+        "como_ser_feliz": "La felicidad en la adolescencia nace cuando te permites equivocarte sin castigarte, te rodeas de personas que respetan tus límites y celebras cada paso valiente.",
+        "frase_motivacional": "Sé tú, sin pedir permiso. Tu voz importa incluso cuando tiembla.",
+        "codigo_certificado": "MA-2026-0001"
+      }
+    ]
+  }
+}

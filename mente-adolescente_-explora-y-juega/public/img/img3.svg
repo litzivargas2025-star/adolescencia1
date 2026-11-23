@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" fill="none">
+  <rect width="360" height="240" rx="20" fill="#FFD6A5"/>
+  <circle cx="122" cy="110" r="42" fill="#CDB4DB" stroke="#3A265E" stroke-width="4"/>
+  <circle cx="238" cy="110" r="42" fill="#B8D8F8" stroke="#3A265E" stroke-width="4"/>
+  <rect x="156" y="68" width="48" height="84" rx="12" fill="#B9FBC0" stroke="#3A265E" stroke-width="4"/>
+  <path d="M168 110H192" stroke="#3A265E" stroke-width="4" stroke-linecap="round"/>
+  <text x="180" y="212" text-anchor="middle" fill="#2B1D47" font-family="Barlow Condensed, sans-serif" font-size="22" font-weight="700">LÍMITES Y ASERTIVIDAD</text>
+</svg>
